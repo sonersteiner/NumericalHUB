@@ -1,6 +1,8 @@
 # NumericalHUB
 Set of modern Fortran numerical libraries covering:  zeroes of Systems of Equations,  Lagrange Interpolation, Finite Differences,  Cauchy Problems,  Boundary Value Problems, and  Initial Boundary Value  Problems.
 
+Book : NumericalHUB_0223.pdf in this repository. Also in amazon.es 
+
 1) unzip NumericalHUB.zip in any folder. 
 2) unzip Simulation.zip
 3) Two folders will appear: libraries and NumericalHUB
