@@ -12,3 +12,6 @@ Book : NumericalHUB_0223.pdf in this repository. Also in amazon.es
 7) User examples, Developer guidelines, and API are covered in the books: 
    - How to learn Applied Mathematics through modern Fortran. Ed. Amazon 
    - Programming with Visual Studio: Python,  C++, Fortran. Ed. Amazon
+8) Programming with Visual Studio describes in detail the configuration 
+   of the IDE editor and fortran compiler  
+9) jahr.settings comprises the most relevant settings and it can be imported from VS
